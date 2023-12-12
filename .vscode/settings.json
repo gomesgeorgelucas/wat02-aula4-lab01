@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/george.gomes/workspace/icomp/lab04/.github/workflows/wa-google-cloudrun-docker.yml"
+  }
+}
